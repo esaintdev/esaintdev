@@ -36,8 +36,8 @@ I'm a passionate Developer with expertise in Javascript/Typescript, Nextjs, Reac
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 📬 Get in Touch
-- Email: [your.email@example.com](mailto:yesaint.designer@gmail.com)
-- Instagram: [Your Name](https://instagram.com/designwithesaint)
-- Facebook: [@yourhandle](https://twitter.com/designwithesaint)
+- Email: [esaint.designer@gmail.com](mailto:yesaint.designer@gmail.com)
+- Instagram: [designwithesaint](https://instagram.com/designwithesaint)
+- Facebook: [@designwithesaint](https://twitter.com/designwithesaint)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=esaintdev&style=flat-square&color=blueviolet)
