@@ -1,43 +1,29 @@
-# 👋 Hi, I'm Esaint Mjay
+# ✨ Hello World! I'm Esaint Mjay ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B6B)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF9A8B)](https://instagram.com/designwithesaint)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD166)](mailto:esaint.designer@gmail.com)
 
-## 🚀 About Me
-I'm a passionate Developer with expertise in Javascript/Typescript, Nextjs, React, Php and more. I love building innovative solutions and contributing to open-source projects.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhZ2E0bWl1YjZ1dW1iN3J1Z2V1MmR0b3BqZ3F6ZXR2Z2Q4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8I/giphy.gif" width="200"/>
+</div>
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=esaintdev&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=esaintdev&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esaintdev&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
-
-## 🎯 Currently Working On
-- 🔭 I'm currently working on Ecommerce Midoman Website
-- 🌱 I'm currently learning [Technology/Skill]
-- 👯 I'm looking to collaborate on [Project Ideas]
-- 💬 Ask me about Nextjs, Web developement
-- 📫 How to reach me: esaint.designer@gmail.com
-
-
-## 🎉 Fun Fact
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## 📬 Get in Touch
-- Email: [esaint.designer@gmail.com](mailto:yesaint.designer@gmail.com)
-- Instagram: [designwithesaint](https://instagram.com/designwithesaint)
-- Facebook: [@designwithesaint](https://twitter.com/designwithesaint)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=esaintdev&style=flat-square&color=blueviolet)
+## 👨‍💻 About Me
+```javascript
+const esaint = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "Typescript", "PHP", "Python"],
+  askMeAbout: ["web dev", "design", "tech", "coffee"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Redux"],
+      css: ["Tailwind", "Styled Components", "Sass"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express"],
+      php: ["Laravel"]
+    },
+    devOps: ["Docker", "AWS"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL"]
+  }
+};
